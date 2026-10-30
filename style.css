@@ -1,0 +1,11 @@
+h1{
+    color: cadetblue;
+    background-color: rgb(240, 193, 216);
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: darkcyan;
+    background-color: blanchedalmond;
+    font-size: large;
+}
